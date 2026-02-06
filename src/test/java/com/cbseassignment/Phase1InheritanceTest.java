@@ -1,5 +1,7 @@
 package com.cbseassignment;
 
+import com.cbseassignment.phase1.Dog;
+import com.cbseassignment.phase1.ShibaInu;
 import junit.framework.TestCase;
 
 public class Phase1InheritanceTest extends TestCase {

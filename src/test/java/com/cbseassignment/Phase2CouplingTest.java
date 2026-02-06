@@ -1,5 +1,9 @@
 package com.cbseassignment;
 
+import com.cbseassignment.phase2.Dog;
+import com.cbseassignment.phase2.Pomeranian;
+import com.cbseassignment.phase2.ShibaInu;
+import com.cbseassignment.phase2.ToyDog;
 import junit.framework.TestCase;
 
 public class Phase2CouplingTest extends TestCase {

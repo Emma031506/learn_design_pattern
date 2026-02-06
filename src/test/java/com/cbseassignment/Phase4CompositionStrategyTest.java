@@ -1,5 +1,12 @@
 package com.cbseassignment;
 
+import com.cbseassignment.phase4.Dog;
+import com.cbseassignment.phase4.LoudBark;
+import com.cbseassignment.phase4.Pomeranian;
+import com.cbseassignment.phase4.ShibaInu;
+import com.cbseassignment.phase4.SilentBark;
+import com.cbseassignment.phase4.SoftBark;
+import com.cbseassignment.phase4.ToyDog;
 import junit.framework.TestCase;
 
 public class Phase4CompositionStrategyTest extends TestCase {

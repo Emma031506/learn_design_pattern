@@ -1,5 +1,10 @@
 package com.cbseassignment;
 
+import com.cbseassignment.phase3.Barkable;
+import com.cbseassignment.phase3.Dog;
+import com.cbseassignment.phase3.Pomeranian;
+import com.cbseassignment.phase3.ShibaInu;
+import com.cbseassignment.phase3.ToyDog;
 import junit.framework.TestCase;
 
 public class Phase3InterfaceDecouplingTest extends TestCase {
