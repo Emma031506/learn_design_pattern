@@ -7,7 +7,7 @@ import junit.framework.TestCase;
 public class Phase1InheritanceTest extends TestCase {
     public void testDogStoresAttributes() {
         Dog dog = new Dog("Milo", 3);
-
+        
         assertEquals("Milo", dog.getName());
         assertEquals(3, dog.getAge());
     }
